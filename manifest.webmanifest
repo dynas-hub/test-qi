@@ -1,8 +1,8 @@
 {
-  "name": "Test de QI",
-  "short_name": "Test QI",
-  "description": "Tests de QI et exercices de logique : visuel, numérique, verbal, spatial.",
-  "lang": "fr",
+  "name": "IQ Test",
+  "short_name": "IQ Test",
+  "description": "IQ tests and logic exercises: visual, numerical, verbal, spatial. English, français, español.",
+  "lang": "en",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
